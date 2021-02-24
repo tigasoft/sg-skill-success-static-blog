@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+- blog
 title: How to List References on a Resume
 date: 2021-02-24 01:00:00 +0000
 author: Esther B.
